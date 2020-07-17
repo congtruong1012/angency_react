@@ -1,0 +1,47 @@
+{
+    "portfolio": [
+        {
+            "id": 1,
+            "name": "Fresh Mockup",
+            "image": "https://congtruong1012.github.io/agency_design/image/fish.png"
+        },
+        {
+            "id": 2,
+            "name": "App Design",
+            "image": "https://congtruong1012.github.io/agency_design/image/app-design3.png"
+        },
+        {
+            "id": 3,
+            "name": "Web Design",
+            "image": "https://congtruong1012.github.io/agency_design/image/thumbnail-918x656-01-8be87c(1).png"
+        },
+        {
+            "id": 4,
+            "name": "Phone Mockup",
+            "image": "https://congtruong1012.github.io/agency_design/image/How-UX-UI-Design-Will-Help-Your-Business-Succeed.png"
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "img": "https://congtruong1012.github.io/agency_design/image/b5.png",
+            "order": "26th",
+            "brief": "I enjoy turning complex problems into simple, beautiful and intuitive designs.",
+            "desc": "Lorem ipsum dolor sit amet,Stet clita kasd is the most lorem ipsum dolor sit amet."
+        },
+        {
+            "id": 2,
+            "img": "https://congtruong1012.github.io/agency_design/image/b2.png",
+            "order": "28th",
+            "brief": "I enjoy turning complex problems into simple, beautiful and intuitive designs.",
+            "desc": "Lorem ipsum dolor sit amet,Stet clita kasd is the most lorem ipsum dolor sit amet."
+        },
+        {
+            "id": 3,
+            "img": "https://congtruong1012.github.io/agency_design/image/b7.png",
+            "order": "29th",
+            "brief": "I enjoy turning complex problems into simple, beautiful and intuitive designs.",
+            "desc": "Lorem ipsum dolor sit amet,Stet clita kasd is the most lorem ipsum dolor sit amet."
+        }
+    ]
+}
